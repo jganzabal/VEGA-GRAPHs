@@ -192,6 +192,7 @@
     },
     {
       "group": 3,
+      "fix": true,
       "name": "Donald Trump",
       "last": "Trump",
       "topicName": "Donald Trump | White House | Mitch Mcconnell | Donald Trump North Korea",
