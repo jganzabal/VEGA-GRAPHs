@@ -193,6 +193,8 @@
     {
       "group": 3,
       "fix": true,
+      "relX": 0.5,
+      "relY": 0.5,
       "name": "Donald Trump",
       "last": "Trump",
       "topicName": "Donald Trump | White House | Mitch Mcconnell | Donald Trump North Korea",
@@ -424,6 +426,9 @@
     {
       "group": 0,
       "name": "Jose Mourinho",
+      "fix": true,
+      "relX: 0.25,
+      "relY: 0.5,
       "last": "Mourinho",
       "topicName": "League | Premier | Premier League",
       "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Jos%C3%A9_Mourinho_2017.jpg/36px-Jos%C3%A9_Mourinho_2017.jpg",
